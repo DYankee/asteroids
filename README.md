@@ -1,2 +1,2 @@
-Asteroids clone with a twist. 
-Writen for the PICO-8
+## Asteroids clone with a twist.  
+Written for the PICO-8
