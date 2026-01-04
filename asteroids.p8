@@ -1,9 +1,9 @@
 pico-8 cartridge // http://www.pico-8.com
 version 43
 __lua__
-#include src/main.lua
-#include src/player.lua
-#include src/asteroids.lua
+#include src/main.p8
+#include src/player.p8
+#include src/asteroids.p8
 
 __gfx__
 00000000000550000000000000050000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
